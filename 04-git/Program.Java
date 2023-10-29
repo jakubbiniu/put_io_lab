@@ -8,5 +8,6 @@ class Program {
     // third comment
 }
 // forgotten comment 2
+// forgotten comment 3
 // zmiana 1
 // zmiana 2

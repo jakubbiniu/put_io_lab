@@ -1,4 +1,4 @@
 # put_io_lab
 Jakub Binkowski
-29.10.2023
+28.10.2023
 zmiana 1 w readme

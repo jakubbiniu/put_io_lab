@@ -11,3 +11,4 @@ class Program {
 // forgotten comment 3
 // zmiana 1
 // zmiana 2
+// zmiana pod stash
